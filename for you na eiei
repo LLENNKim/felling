@@ -1,3 +1,6 @@
+
+
+
 #include "stdio.h"
 void heart(){
 	int i, j, n,a=0;
