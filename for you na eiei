@@ -1,10 +1,8 @@
-
-
-
 #include "stdio.h"
 void heart(){
 	int i, j, n,a=0;
 	i = 0;
+	printf("Not less than 7, not more than 10\n");
 	printf("Enter number : ");
 	scanf("%d",&n);
 	while(i<n){
